@@ -151,8 +151,6 @@ bank-loan-approval-prediction-streamlit/
 ├── requirements.txt
 ├── Bank_Loan_Classification.ipynb
 ├── README.md
-└── screenshots/
-    └── app.png
 ```
 
 ---
