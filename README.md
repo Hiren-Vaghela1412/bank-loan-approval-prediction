@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Approval Prediction App
 
-[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-red)](https://bank-loan-approval-prediction-vimvs6c5wfvhrwtsvj4unq.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-red)](https://bank-loan-approval-prediction-fe4kijik6xgrncj9zizwww.streamlit.app/)
 
 A Machine Learning-powered Streamlit web application that predicts whether a customer's loan application is likely to be approved based on demographic, employment, financial, and credit-related information.
 
